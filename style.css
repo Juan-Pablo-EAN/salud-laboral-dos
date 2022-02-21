@@ -1,3 +1,8 @@
 .carouselExampleCaptions p {
     color: #141414;
 }
+
+h1, h2, h3 {
+    margin: 20px 0 20px 0;
+    color: #aec4c7;
+}
